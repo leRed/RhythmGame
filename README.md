@@ -5,7 +5,7 @@ Mobile based Rhythm Game
 
 Initial build of the game.
 
-Features:
+Features: 
 -Opening
 -Playing
 -Pausing
