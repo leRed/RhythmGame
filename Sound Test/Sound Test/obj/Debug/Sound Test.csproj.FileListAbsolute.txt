@@ -1,0 +1,9 @@
+c:\users\rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\bin\Debug\Sound Test.exe.config
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\obj\Debug\Sound Test.csprojResolveAssemblyReference.cache
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\obj\Debug\Sound_Test.Form1.resources
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\obj\Debug\Sound_Test.Properties.Resources.resources
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\obj\Debug\Sound Test.csproj.GenerateResource.Cache
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\bin\Debug\Sound Test.exe
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\bin\Debug\Sound Test.pdb
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\obj\Debug\Sound Test.exe
+C:\Users\Rhett\documents\visual studio 2013\Projects\Sound Test\Sound Test\obj\Debug\Sound Test.pdb
